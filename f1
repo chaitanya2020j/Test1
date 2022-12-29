@@ -1,6 +1,0 @@
-Step 1: Update system repositories
-$ sudo apt update
-$ sudo apt install apache2
-$ apache2 -version
-Configure the Firewall Settings
-In order to configure Apache, we first need to allow outside access to certain web ports of our system and allow Apache on your UFW firewall.
